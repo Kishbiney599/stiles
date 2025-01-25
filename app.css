@@ -1,4 +1,5 @@
-.body{
+body {
     background-color: black;
-    color: aliceblue;   
+    color: aliceblue;
+    font-family: Arial, sans-serif; /* Added font-family */
 }
